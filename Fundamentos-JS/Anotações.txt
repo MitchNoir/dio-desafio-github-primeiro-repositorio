@@ -1,0 +1,21 @@
+Operadores de atribuição:
+let x = 5 (uma atribuição)
+ == (uma comparação de valor)
+ === (comparação de valor e tipo)
+
+
+Operador logico:
+ A & B    (A e B)
+
+ A | B    (A ou B)
+
+ A > B    (A maior q B)
+
+ A >= B   (A maior ou igual a B)
+
+Declaração de variavel no JS
+
+Camel case = someAwesomeVar
+Pascal Case = SomeAwesomeVar
+Upper Snake Case= SOME_AWESOME_VAR (para constantes)
+
